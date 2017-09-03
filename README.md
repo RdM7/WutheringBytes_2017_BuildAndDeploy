@@ -30,7 +30,7 @@ The `assets` directory contains screen captures for the documentation only.
 
 There are two supporting documents for the workshop.
 
-[SODAQ ExLoRer Board Notes for deployment](SODAQ ExLoRer Board Notes for deployment.md) runs through how to install the nescessary libraries and board definitions to make the ExpLoRer work correctly with the Arduino IDE, and how to install Node-Red (optionally).
+[SODAQ ExLoRer Board Notes for deployment.md] runs through how to install the nescessary libraries and board definitions to make the ExpLoRer work correctly with the Arduino IDE, and how to install Node-Red (optionally).
 
-[Setting up integrations with TheThingsNetwork and Cayenne](Setting up integrations with TheThingsNetwork and Cayenne.md) explains the steps needed to set up an account on TheThingsNetwork, create an applicaiton, and associate devices with it.
+[Setting up integrations with TheThingsNetwork and Cayenne.md] explains the steps needed to set up an account on TheThingsNetwork, create an applicaiton, and associate devices with it.
 Additionally, it explains how to integrate this application with Cayenne and configure a device on the Cayenne platform.
