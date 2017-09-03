@@ -1,4 +1,4 @@
-# Miscellanoues Component notes
+# Miscellaneous Component notes
 
 ## Keyes Infrared Temperature Sensor Module KY-140 MLX90614 Arduino Flux Workshop x 2
 
