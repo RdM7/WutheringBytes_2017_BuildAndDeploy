@@ -1,0 +1,2 @@
+|Sensor Type|ID|Notes|Data Size (bytes)|Resolution|Signed?|
+|:----------|--|:----|:----------------|:---------|:-----:||Digital Input|0||1|boolean|||Digital Output|1||1|boolean|||Analogue Input|2||2|0.01|✓||Analogue Output|3||2|0.01|✓||Illuminance Sensor|65|Lux, MSB|2||||Presence Sensor|66||1||||Temperature Sensor|67|MSB|2|0.01 °C|✓||Humidity Sensor|68||1|0.5%|✕||Accelerometer|71|per axis; MSB order|6|0.001 G|✓||Barometer|73|MSB order|2|0.01 hPa|✕||Gyrometer|86|per axis; MSB order|6|0.01 °/s|✓||GPS|88|MSB order; lat/long/alt|9||✓|
